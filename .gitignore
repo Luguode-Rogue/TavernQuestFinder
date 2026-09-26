@@ -4,3 +4,4 @@
 # Build output
 **/bin/
 **/obj/
+*.log
